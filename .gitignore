@@ -1,0 +1,31 @@
+# Node.js dependencies
+node_modules/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Build output
+dist/
+build/
+
+# Optional: Ignore test coverage reports
+coverage/
+
+# NPM package-lock files (if you prefer to not track them)
+package-lock.json
+npm-debug.log
+
+# VS Code editor settings
+.vscode/
+
+# OS-specific files
+.DS_Store        # macOS system files
+Thumbs.db        # Windows system files
+
+# Optional: Ignore directories for specific tools or temporary files
+.idea/           # JetBrains IDEs (e.g., IntelliJ, WebStorm)
+*.sublime-workspace # Sublime Text workspace files
+*.sublime-project # Sublime Text project files
